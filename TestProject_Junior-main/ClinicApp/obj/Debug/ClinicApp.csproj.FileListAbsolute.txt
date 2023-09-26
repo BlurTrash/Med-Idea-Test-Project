@@ -1,0 +1,188 @@
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\back_arrow.png
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\doctor.png
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\red_cross.ico
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\Tablet.png
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\trash.png
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ClinicApp.exe.config
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ClinicApp.exe
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ClinicApp.pdb
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Remotion.Linq.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Interactive.Async.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Remotion.Linq.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Interactive.Async.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.AssemblyReference.cache
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\MainWindow.g.cs
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyPatient.g.cs
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyRequest.g.cs
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\ListOfPatientsPage.g.cs
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\App.g.cs
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp_Content.g.cs
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp_MarkupCompile.cache
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp_MarkupCompile.lref
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\App.baml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\MainWindow.baml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyPatient.baml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyRequest.baml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\ListOfPatientsPage.baml
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.g.resources
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.Properties.Resources.resources
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.GenerateResource.cache
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.CoreCompileInputs.cache
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.CopyComplete
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.exe
+C:\Users\kuvsh\Downloads\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.pdb
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\back_arrow.png
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\doctor.png
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\red_cross.ico
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\Tablet.png
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Resourses\Images\trash.png
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ClinicApp.exe.config
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ClinicApp.exe
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ClinicApp.pdb
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Remotion.Linq.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Collections.Immutable.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Interactive.Async.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\Remotion.Linq.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Collections.Immutable.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Interactive.Async.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.AssemblyReference.cache
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\MainWindow.g.cs
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyPatient.g.cs
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyRequest.g.cs
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\ListOfPatientsPage.g.cs
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\App.g.cs
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp_Content.g.cs
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp_MarkupCompile.cache
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp_MarkupCompile.lref
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\App.baml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\MainWindow.baml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyPatient.baml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\AddModifyRequest.baml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\XamlPages\ListOfPatientsPage.baml
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.g.resources
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.Properties.Resources.resources
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.GenerateResource.cache
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.CoreCompileInputs.cache
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.csproj.CopyComplete
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.exe
+C:\Programming\Собеседования(тестовые задания)\Med-Idea\TestProject_Junior-main\TestProject_Junior-main\ClinicApp\obj\Debug\ClinicApp.pdb
